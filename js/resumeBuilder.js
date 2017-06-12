@@ -1,1 +1,1 @@
-$("#main").append([Candy Capybara]);
+$("#main").append(["Candy Capybara"]);
